@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]
