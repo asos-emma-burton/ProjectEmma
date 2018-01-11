@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/emmaburton/AndroidStudioProjects/ProjectEmma/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/emmaburton/.android/build-cache/3924491f8d3761bad03599ccccbb2fc6de3843be/output/res/layout-v21/notification_action.xml"
+    }
+]
