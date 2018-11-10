@@ -4,13 +4,16 @@ ADDED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/And
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09be3a9bae8631fc81aba1f3842f37b9/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1e759e5e5eab8d4b26c2521d5d12b40/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/558f48a8c3315d277419936d3b9041b0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dd14cafe9af0c17e44183d1bcdc58e56/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/01fda90c5df8f7895cf1adda31ec2d19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/791db58f174a2ca7b0957872baadf22b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fe4902e92ca6a0cbb046a89d39cbe46d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8ef496f9802619e7ca047a1c75941899/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b146faec0cbc57c6094bd4b459778898/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/4d08242d9ed8b99869db4de5f7176c18/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c6ae5f9345280c6899c9f6f941765d0e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e355f11364ba6d9244e8bfaffb2de8a7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/dd3f936263b20959925f8c9423e430cb/AndroidManifest.xml:17:1-22:12
@@ -22,15 +25,16 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emma.burton/
 MERGED from [com.android.support:support-compat:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/103ef43e047683c2ca98cac74443f856/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54885005d266bd444127ceb548a9ffaa/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/be69eed004c63be0be266b7fa5056225/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/faff7c4c48ac632c5cf6a3fb389b40c6/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b6df604f5fabde3aab1bfc36cd696d8/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5ff2f580b8d09f039117954dfea33c3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/425c7327b2ddd357dab0c857f1159565/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4a0b026ba229191b40fcd0a57a3c2c62/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dbefe9cb66801f9f58f9c0cb0ac9242f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/21e8fc849defdf1de49b6764fdd5d7c1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c23db04dec7a5d9ca704479e80c5d8cb/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ddfb6e7aa04ea2d9b0074f569b6a3aee/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/632c9ccf25107583a3257340568568b6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/21e8fc849defdf1de49b6764fdd5d7c1/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml:2:1-21:12
@@ -50,6 +54,8 @@ INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/
 		ADDED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09be3a9bae8631fc81aba1f3842f37b9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09be3a9bae8631fc81aba1f3842f37b9/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/558f48a8c3315d277419936d3b9041b0/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/558f48a8c3315d277419936d3b9041b0/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/103ef43e047683c2ca98cac74443f856/AndroidManifest.xml:22:5-94
@@ -88,6 +94,8 @@ uses-sdk
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09be3a9bae8631fc81aba1f3842f37b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09be3a9bae8631fc81aba1f3842f37b9/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1e759e5e5eab8d4b26c2521d5d12b40/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1e759e5e5eab8d4b26c2521d5d12b40/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/558f48a8c3315d277419936d3b9041b0/AndroidManifest.xml:5:5-7:41
@@ -96,12 +104,16 @@ MERGED from [com.android.support:support-fragment:28.0.0] /Users/emma.burton/.gr
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dd14cafe9af0c17e44183d1bcdc58e56/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/01fda90c5df8f7895cf1adda31ec2d19/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/01fda90c5df8f7895cf1adda31ec2d19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/791db58f174a2ca7b0957872baadf22b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/791db58f174a2ca7b0957872baadf22b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fe4902e92ca6a0cbb046a89d39cbe46d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fe4902e92ca6a0cbb046a89d39cbe46d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8ef496f9802619e7ca047a1c75941899/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8ef496f9802619e7ca047a1c75941899/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b146faec0cbc57c6094bd4b459778898/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b146faec0cbc57c6094bd4b459778898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/4d08242d9ed8b99869db4de5f7176c18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/4d08242d9ed8b99869db4de5f7176c18/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c6ae5f9345280c6899c9f6f941765d0e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c6ae5f9345280c6899c9f6f941765d0e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e355f11364ba6d9244e8bfaffb2de8a7/AndroidManifest.xml:20:5-44
@@ -124,6 +136,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emma.burton/
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54885005d266bd444127ceb548a9ffaa/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/be69eed004c63be0be266b7fa5056225/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/be69eed004c63be0be266b7fa5056225/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/faff7c4c48ac632c5cf6a3fb389b40c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/faff7c4c48ac632c5cf6a3fb389b40c6/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b6df604f5fabde3aab1bfc36cd696d8/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b6df604f5fabde3aab1bfc36cd696d8/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5ff2f580b8d09f039117954dfea33c3/AndroidManifest.xml:20:5-44
@@ -134,14 +148,14 @@ MERGED from [com.android.support:print:28.0.0] /Users/emma.burton/.gradle/caches
 MERGED from [com.android.support:print:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4a0b026ba229191b40fcd0a57a3c2c62/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dbefe9cb66801f9f58f9c0cb0ac9242f/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dbefe9cb66801f9f58f9c0cb0ac9242f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/21e8fc849defdf1de49b6764fdd5d7c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/21e8fc849defdf1de49b6764fdd5d7c1/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c23db04dec7a5d9ca704479e80c5d8cb/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c23db04dec7a5d9ca704479e80c5d8cb/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ddfb6e7aa04ea2d9b0074f569b6a3aee/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ddfb6e7aa04ea2d9b0074f569b6a3aee/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/632c9ccf25107583a3257340568568b6/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/632c9ccf25107583a3257340568568b6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/21e8fc849defdf1de49b6764fdd5d7c1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/emma.burton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/21e8fc849defdf1de49b6764fdd5d7c1/AndroidManifest.xml:20:5-44
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml
 INJECTED from /Users/emma.burton/AndroidStudioProjects/ProjectEmma/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
