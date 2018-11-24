@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ProjectEmma</string>
-    <string name="search_hint">Names - common, scientific, regions etc…</string>
-    <string name="iucn_search_description">Some sort of intro saying here\'s where you can search for stuff. Go for it buddy</string>
+    <string name="search_hint">Search for recipes</string>
+    <string name="search_description">Some sort of intro saying here\'s where you can search for stuff. Go for it buddy</string>
     <string name="search_button_text">Search</string>
-    <string name="iucn_red_list">IUCN Red List</string>
+    <string name="toolbar_title">Test app</string>
 </resources>
