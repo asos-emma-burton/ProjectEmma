@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.results_item_layout.view.*
 
-class ResultsRecyclerViewAdapter(private val postList: List<Post>, val context: Context) :
+class ResultsRecyclerViewAdapter(private val recipeList: List<Recipe>, val context: Context) :
         RecyclerView.Adapter<ResultsRecyclerViewAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) =
@@ -16,7 +16,7 @@ class ResultsRecyclerViewAdapter(private val postList: List<Post>, val context: 
     override fun getItemCount() = 10
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        holder.itemView.recipe_item_title.text = postList[position].name
+        holder.itemView.recipe_item_title.text = recipeList[position].name
     }
 
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view)

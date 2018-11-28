@@ -1,5 +1,6 @@
 package com.example.emmaburton.projectemma
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.widget.Button
@@ -18,5 +19,11 @@ class MainActivity : AppCompatActivity() {
         searchButton = findViewById(R.id.search_button)
 
         JsonReader.readJson()
+
+        searchButton.setOnClickListener {
+            val intent = Intent(searchButton.context, ResultsActivity::class.java)
+
+            searchButton.context.startActivity(intent)
+        }
     }
 }
