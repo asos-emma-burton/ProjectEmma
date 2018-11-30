@@ -1,7 +1,6 @@
-package com.example.emmaburton.projectemma
+package com.example.emmaburton.projectemma.testData
 
 import android.util.Log
-import com.example.emmaburton.projectemma.testData.TestJson
 import org.json.JSONArray
 
 object JsonReader {

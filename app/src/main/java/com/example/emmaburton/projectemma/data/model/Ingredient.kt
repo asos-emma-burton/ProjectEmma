@@ -1,4 +1,4 @@
-package com.example.emmaburton.projectemma
+package com.example.emmaburton.projectemma.data.model
 
 import com.google.gson.annotations.SerializedName
 

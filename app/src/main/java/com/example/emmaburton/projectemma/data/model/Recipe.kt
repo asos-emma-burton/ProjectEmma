@@ -1,4 +1,4 @@
-package com.example.emmaburton.projectemma
+package com.example.emmaburton.projectemma.data.model
 
 import com.google.gson.annotations.SerializedName
 
@@ -9,9 +9,11 @@ data class Recipe(
         @SerializedName("ingredients") val ingredients: List<Ingredient>,
 
         @SerializedName("steps") val steps: Array<String>,
-        @SerializedName("timers") val timers: IntArray,
+
+        @SerializedName("timers") val timers: Array<Int>,
 
         @SerializedName("imageURL") val imageURL: String,
+
         @SerializedName("originalURL") val originalURL: String
 
 ) {
