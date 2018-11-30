@@ -16,7 +16,6 @@
             android:id="@+id/recipe_image"
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            android:layout_marginTop="8dp"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             tools:layout_editor_absoluteX="0dp" />
@@ -26,11 +25,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="40dp"
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp"
             android:background="@color/colorPrimary"
             android:backgroundTintMode="src_over"
             android:ellipsize="end"
+            android:maxLines="1"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="22sp"
             app:layout_constraintBottom_toBottomOf="@+id/recipe_image"
             app:layout_constraintLeft_toLeftOf="parent"
             tools:layout_editor_absoluteX="8dp" />
