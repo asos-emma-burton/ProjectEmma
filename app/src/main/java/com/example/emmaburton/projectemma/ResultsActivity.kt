@@ -1,7 +1,7 @@
 package com.example.emmaburton.projectemma
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import android.support.v4.app.FragmentActivity
 import android.support.v7.widget.LinearLayoutManager
 import com.google.gson.GsonBuilder
 import io.reactivex.android.schedulers.AndroidSchedulers
@@ -13,7 +13,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 const val APP_URL = "http://mobile.asosservices.com/sampleapifortest/recipes.json"
 
-class ResultsActivity : AppCompatActivity() {
+class ResultsActivity : FragmentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

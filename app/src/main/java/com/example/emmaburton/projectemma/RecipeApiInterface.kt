@@ -5,6 +5,6 @@ import retrofit2.http.GET
 
 interface RecipeApiInterface {
 
-    @GET("name/")
+    @GET(APP_URL)
     fun getAllRecipes(): Observable<List<Recipe>>
 }
