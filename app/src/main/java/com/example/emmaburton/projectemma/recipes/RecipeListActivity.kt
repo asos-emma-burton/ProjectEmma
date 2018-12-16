@@ -5,6 +5,7 @@ import android.support.v4.app.FragmentActivity
 import android.support.v7.widget.GridLayoutManager
 import com.example.emmaburton.projectemma.R
 import com.example.emmaburton.projectemma.entities.Recipe
+import com.example.emmaburton.projectemma.logger.Logcat
 import com.example.emmaburton.projectemma.services.RecipesApi
 import com.example.emmaburton.projectemma.threading.RxSchedulerProvider
 import kotlinx.android.synthetic.main.activity_recipe_list.*
@@ -12,7 +13,7 @@ import kotlinx.android.synthetic.main.activity_recipe_list.*
 class RecipeListActivity : FragmentActivity(), RecipesView {
 
     private val api = RecipesApi()
-    private val presenter = RecipesPresenter(api, this, RxSchedulerProvider())
+    private val presenter = RecipesPresenter(api, this, RxSchedulerProvider(), Logcat())
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
