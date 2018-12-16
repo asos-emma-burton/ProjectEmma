@@ -5,7 +5,7 @@ import android.support.v4.app.FragmentActivity
 import android.support.v7.widget.GridLayoutManager
 import android.util.Log
 import com.example.emmaburton.projectemma.R
-import com.example.emmaburton.projectemma.data.services.RecipesApi
+import com.example.emmaburton.projectemma.services.RecipesApi
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import kotlinx.android.synthetic.main.activity_recipe_list.*
