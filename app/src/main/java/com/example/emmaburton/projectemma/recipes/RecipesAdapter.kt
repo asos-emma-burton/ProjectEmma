@@ -1,4 +1,4 @@
-package com.example.emmaburton.projectemma.presentation.activity
+package com.example.emmaburton.projectemma.recipes
 
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater

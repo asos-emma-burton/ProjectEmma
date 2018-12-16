@@ -1,4 +1,4 @@
-package com.example.emmaburton.projectemma.presentation.activity
+package com.example.emmaburton.projectemma.recipes
 
 import android.os.Bundle
 import android.support.v4.app.FragmentActivity
