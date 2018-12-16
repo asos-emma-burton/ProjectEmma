@@ -26,12 +26,8 @@ class RecipeListActivity : FragmentActivity() {
         compositeDisposable.add(api.getAllRecipes()
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(
-                        { recipes ->
-                            search_results_recycler_view.adapter = RecipesAdapter(recipes)
-                        },
-                        { error ->
-                            Log.d(javaClass.simpleName, "Error getting the recipes", error)
-                        }
+                        { search_results_recycler_view.adapter = RecipesAdapter(it) },
+                        { Log.d(javaClass.simpleName, "Error getting the recipes", it) }
                 ))
 
     }
