@@ -1,6 +1,6 @@
 package com.example.emmaburton.projectemma.data.api
 
-import com.example.emmaburton.projectemma.data.model.Recipe
+import com.example.emmaburton.projectemma.entities.Recipe
 import io.reactivex.Observable
 import retrofit2.http.GET
 

@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.example.emmaburton.projectemma.R
-import com.example.emmaburton.projectemma.data.model.Recipe
+import com.example.emmaburton.projectemma.entities.Recipe
 import kotlinx.android.synthetic.main.item_recipe.view.*
 
 class RecipesAdapter(private val recipeList: List<Recipe>) :

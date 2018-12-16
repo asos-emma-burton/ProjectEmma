@@ -1,4 +1,4 @@
-package com.example.emmaburton.projectemma.data.model
+package com.example.emmaburton.projectemma.entities
 
 data class Ingredient(
         val quantity: String,
