@@ -1,4 +1,4 @@
-package com.example.emmaburton.projectemma.data.api
+package com.example.emmaburton.projectemma.services
 
 import com.example.emmaburton.projectemma.entities.Recipe
 import io.reactivex.Observable
