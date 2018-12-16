@@ -10,8 +10,6 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import kotlinx.android.synthetic.main.activity_recipe_list.*
 
-const val RECIPE_SERVICE_URL = "http://mobile.asosservices.com/sampleapifortest/"
-
 class RecipeListActivity : FragmentActivity() {
 
     private val api = RecipesApi()

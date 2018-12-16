@@ -1,13 +1,14 @@
 package com.example.emmaburton.projectemma.data.api
 
 import com.example.emmaburton.projectemma.data.model.Recipe
-import com.example.emmaburton.projectemma.presentation.activity.RECIPE_SERVICE_URL
 import com.google.gson.GsonBuilder
 import io.reactivex.Observable
 import io.reactivex.schedulers.Schedulers
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import retrofit2.converter.gson.GsonConverterFactory
+
+const val RECIPE_SERVICE_URL = "http://mobile.asosservices.com/sampleapifortest/"
 
 class RecipesApi {
 
