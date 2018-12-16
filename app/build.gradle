@@ -33,20 +33,15 @@ dependencies {
 
     implementation 'com.android.support:design:28.0.0'
     implementation 'com.android.support:recyclerview-v7:28.0.0'
-
     implementation 'com.squareup.retrofit2:retrofit:2.4.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
     implementation 'com.squareup.retrofit2:adapter-rxjava2:2.4.0'
-
     implementation 'io.reactivex.rxjava2:rxandroid:2.0.2'
-
-    // Image viewing
     implementation 'com.facebook.fresco:fresco:1.11.0'
-
-    // Cards for recipes in the recycler view
     implementation 'com.android.support:cardview-v7:28.0.0'
 
-    testCompile 'junit:junit:4.12'
+    testImplementation "org.assertj:assertj-core:3.11.1"
+    testImplementation 'junit:junit:4.12'
     testImplementation "com.nhaarman.mockitokotlin2:mockito-kotlin:2.0.0"
 
 }

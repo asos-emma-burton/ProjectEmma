@@ -3,36 +3,35 @@ package com.example.emmaburton.projectemma.recipes
 import android.os.Bundle
 import android.support.v4.app.FragmentActivity
 import android.support.v7.widget.GridLayoutManager
-import android.util.Log
 import com.example.emmaburton.projectemma.R
+import com.example.emmaburton.projectemma.entities.Recipe
 import com.example.emmaburton.projectemma.services.RecipesApi
-import io.reactivex.android.schedulers.AndroidSchedulers
-import io.reactivex.disposables.CompositeDisposable
+import com.example.emmaburton.projectemma.threading.RxSchedulerProvider
 import kotlinx.android.synthetic.main.activity_recipe_list.*
 
-class RecipeListActivity : FragmentActivity() {
+class RecipeListActivity : FragmentActivity(), RecipesView {
 
     private val api = RecipesApi()
-    private val compositeDisposable = CompositeDisposable()
+    private val presenter = RecipesPresenter(api, this, RxSchedulerProvider())
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         this.setContentView(R.layout.activity_recipe_list)
 
         search_results_recycler_view.layoutManager = GridLayoutManager(this, 1)
+    }
 
-        compositeDisposable.add(api.getAllRecipes()
-                .observeOn(AndroidSchedulers.mainThread())
-                .subscribe(
-                        { search_results_recycler_view.adapter = RecipesAdapter(it) },
-                        { Log.d(javaClass.simpleName, "Error getting the recipes", it) }
-                ))
-
+    override fun onResume() {
+        super.onResume()
+        presenter.onResume()
     }
 
     override fun onDestroy() {
-        compositeDisposable.clear()
         super.onDestroy()
+        presenter.onDestroy()
     }
 
+    override fun renderRecipes(recipes: List<Recipe>) {
+        search_results_recycler_view.adapter = RecipesAdapter(recipes)
+    }
 }

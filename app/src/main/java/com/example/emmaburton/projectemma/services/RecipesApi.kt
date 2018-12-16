@@ -10,7 +10,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 const val RECIPE_SERVICE_URL = "http://mobile.asosservices.com/sampleapifortest/"
 
-class RecipesApi {
+class RecipesApi : RecipesService {
 
     private var services: RecipeApiInterface
 
@@ -25,6 +25,7 @@ class RecipesApi {
 
     }
 
-    fun getAllRecipes(): Observable<List<Recipe>> = services.getAllRecipes().subscribeOn(Schedulers.io())
+    override fun fetchRecipes(): Observable<List<Recipe>> =
+            services.getAllRecipes().subscribeOn(Schedulers.io())
 
 }
