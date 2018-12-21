@@ -13,14 +13,20 @@ class RecipesAdapter(private val recipeList: List<Recipe>) :
 
     override fun getItemCount() = recipeList.size
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) =
-            ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.item_recipe, parent, false))
-
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
+        return ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.item_recipe, parent, false))
+    }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.itemView.recipe_image.setImageURI(recipeList[position].imageURL)
         holder.itemView.recipe_title.text = recipeList[position].name
+
+        holder.itemView.setOnClickListener { expandRecipeCard(position) }
     }
 
+    private fun expandRecipeCard(position: Int) {
+        //todo implement method
+    }
+    
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view)
 }

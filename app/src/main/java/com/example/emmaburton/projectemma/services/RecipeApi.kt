@@ -1,12 +1,12 @@
 package com.example.emmaburton.projectemma.services
 
 import com.example.emmaburton.projectemma.entities.Recipe
-import io.reactivex.Observable
+import io.reactivex.Single
 import retrofit2.http.GET
 
-interface RecipeApiInterface {
+interface RecipeApi {
 
     @GET("recipes.json")
-    fun getAllRecipes(): Observable<List<Recipe>>
+    fun getAllRecipes(): Single<List<Recipe>>
 
 }

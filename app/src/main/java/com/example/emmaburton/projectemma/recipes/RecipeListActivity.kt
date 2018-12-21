@@ -6,13 +6,13 @@ import android.support.v7.widget.GridLayoutManager
 import com.example.emmaburton.projectemma.R
 import com.example.emmaburton.projectemma.entities.Recipe
 import com.example.emmaburton.projectemma.logger.Logcat
-import com.example.emmaburton.projectemma.services.RecipesApi
+import com.example.emmaburton.projectemma.services.RecipeServiceImpl
 import com.example.emmaburton.projectemma.threading.RxSchedulerProvider
 import kotlinx.android.synthetic.main.activity_recipe_list.*
 
 class RecipeListActivity : FragmentActivity(), RecipesView {
 
-    private val api = RecipesApi()
+    private val api = RecipeServiceImpl()
     private val presenter = RecipesPresenter(api, this, RxSchedulerProvider(), Logcat())
 
     override fun onCreate(savedInstanceState: Bundle?) {
